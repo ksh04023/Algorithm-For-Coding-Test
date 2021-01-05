@@ -1,3 +1,5 @@
+#체스판에서 나이트가 움직일 수 있는 경우의 수
+
 direction = input()
 x = int(ord(direction[0]) - ord('a')) + 1
 y = int(direction[1])
