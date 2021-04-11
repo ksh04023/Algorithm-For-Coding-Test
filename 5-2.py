@@ -32,5 +32,3 @@ for i in range(n):
 
 answer = graph[n-1][m-1]
 print(answer)
-
-
